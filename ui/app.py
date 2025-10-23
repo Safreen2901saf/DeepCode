@@ -1,8 +1,3 @@
-"""
-DeepCode UI Application Entry Point
-
-This file serves as the unified entry point for the UI module
-"""
 
 from .streamlit_app import main
 
