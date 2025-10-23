@@ -1,7 +1,7 @@
 """
 DeepCode - AI Research Engine
 
-🧬 Next-Generation AI Research Automation Platform
+Next-Generation AI Research Automation Platform
 ⚡ Transform research papers into working code automatically
 """
 
